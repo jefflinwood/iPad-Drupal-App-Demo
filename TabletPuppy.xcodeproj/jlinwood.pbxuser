@@ -1,0 +1,287 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* TabletPuppyAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {586, 416}}";
+			sepNavSelRange = "{209, 0}";
+			sepNavVisRange = "{240, 560}";
+		};
+	};
+	1D3623250D0F684500981E51 /* TabletPuppyAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1001}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1711, 324}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* TabletPuppy */ = {
+		activeExec = 0;
+		executables = (
+			283D458213A457B000249A2D /* TabletPuppy */,
+		);
+	};
+	28042007108E984D000629CD /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {740, 286}}";
+			sepNavSelRange = "{176, 0}";
+			sepNavVisRange = "{0, 467}";
+		};
+	};
+	28042008108E984D000629CD /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {740, 2366}}";
+			sepNavSelRange = "{464, 0}";
+			sepNavVisRange = "{342, 593}";
+		};
+	};
+	28042009108E984D000629CD /* DetailViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {803, 364}}";
+			sepNavSelRange = "{685, 0}";
+			sepNavVisRange = "{151, 541}";
+		};
+	};
+	2804200A108E984D000629CD /* DetailViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1510, 1898}}";
+			sepNavSelRange = "{1130, 0}";
+			sepNavVisRange = "{933, 704}";
+		};
+	};
+	283D458213A457B000249A2D /* TabletPuppy */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TabletPuppy;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	283D459713A457BA00249A2D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	283D459813A457BA00249A2D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	283D45B613A4586A00249A2D /* ASIHTTPRequest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {523, 65780}}";
+			sepNavSelRange = "{421, 0}";
+			sepNavVisRange = "{232, 424}";
+		};
+	};
+	283D45BF13A4586A00249A2D /* ASIWebPageRequest.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = ASIWebPageRequest.h;
+		path = /Users/jlinwood/Projects/TabletPuppy/TabletPuppy/Classes/ASIHTTPRequest/ASIWebPageRequest/ASIWebPageRequest.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {642, 1131}}";
+			sepNavSelRange = "{576, 0}";
+			sepNavVisRange = "{206, 588}";
+		};
+	};
+	283D462913A4590500249A2D /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Reachability.h: No such file or directory";
+		fRef = 283D45B613A4586A00249A2D /* ASIHTTPRequest.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 15;
+		rType = 1;
+	};
+	283D462A13A4590500249A2D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 283D45B613A4586A00249A2D /* ASIHTTPRequest.m */;
+		name = "ASIHTTPRequest.m: 16";
+		rLen = 0;
+		rLoc = 421;
+		rType = 0;
+		vrLen = 424;
+		vrLoc = 232;
+	};
+	283D463B13A4594B00249A2D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 283D45B613A4586A00249A2D /* ASIHTTPRequest.m */;
+		name = "ASIHTTPRequest.m: 16";
+		rLen = 0;
+		rLoc = 421;
+		rType = 0;
+		vrLen = 538;
+		vrLoc = 0;
+	};
+	283D463C13A4594B00249A2D /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Libxml/HTMLparser.h: No such file or directory";
+		fRef = 283D45BF13A4586A00249A2D /* ASIWebPageRequest.h */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 13;
+		rType = 1;
+	};
+	283D463D13A4594B00249A2D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 283D45BF13A4586A00249A2D /* ASIWebPageRequest.h */;
+		name = "ASIWebPageRequest.h: 12";
+		rLen = 0;
+		rLoc = 518;
+		rType = 0;
+		vrLen = 687;
+		vrLoc = 0;
+	};
+	283D466C13A459C500249A2D /* DIOSComment.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1097, 1820}}";
+			sepNavSelRange = "{3575, 0}";
+			sepNavVisRange = "{2234, 1883}";
+			sepNavWindowFrame = "{{15, 95}, {1136, 778}}";
+		};
+	};
+	283D466D13A459C500249A2D /* DIOSConfig.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {740, 780}}";
+			sepNavSelRange = "{1926, 0}";
+			sepNavVisRange = "{1500, 656}";
+		};
+	};
+	283D466E13A459C500249A2D /* DIOSConnect.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {740, 1066}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{2081, 1048}";
+		};
+	};
+	283D466F13A459C500249A2D /* DIOSConnect.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1300, 4147}}";
+			sepNavSelRange = "{1715, 0}";
+			sepNavVisRange = "{1384, 882}";
+		};
+	};
+	283D467213A459C500249A2D /* DIOSNode.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {740, 637}}";
+			sepNavSelRange = "{1799, 12}";
+			sepNavVisRange = "{920, 898}";
+		};
+	};
+	283D467313A459C500249A2D /* DIOSNode.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {740, 1092}}";
+			sepNavSelRange = "{2214, 0}";
+			sepNavVisRange = "{2092, 901}";
+		};
+	};
+	283D467413A459C500249A2D /* DIOSTaxonomy.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {740, 689}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 824}";
+		};
+	};
+	283D467513A459C500249A2D /* DIOSTaxonomy.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {740, 1365}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 846}";
+		};
+	};
+	283D467813A459C500249A2D /* DIOSViews.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {740, 611}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{846, 876}";
+		};
+	};
+	283D467913A459C500249A2D /* DIOSViews.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {740, 767}}";
+			sepNavSelRange = "{570, 0}";
+			sepNavVisRange = "{1537, 473}";
+		};
+	};
+	283D467E13A459C500249A2D /* README.md */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1279, 1703}}";
+			sepNavSelRange = "{289, 0}";
+			sepNavVisRange = "{0, 1032}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 283D458213A457B000249A2D /* TabletPuppy */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* TabletPuppy */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* TabletPuppy */,
+		);
+		codeSenseManager = 283D459813A457BA00249A2D /* Code sense */;
+		executables = (
+			283D458213A457B000249A2D /* TabletPuppy */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 329537456;
+			PBXWorkspaceStateSaveDate = 329537456;
+		};
+		perUserProjectItems = {
+			283D462913A4590500249A2D /* XCBuildMessageTextBookmark */ = 283D462913A4590500249A2D /* XCBuildMessageTextBookmark */;
+			283D462A13A4590500249A2D /* PBXTextBookmark */ = 283D462A13A4590500249A2D /* PBXTextBookmark */;
+			283D463B13A4594B00249A2D /* PBXTextBookmark */ = 283D463B13A4594B00249A2D /* PBXTextBookmark */;
+			283D463C13A4594B00249A2D /* XCBuildMessageTextBookmark */ = 283D463C13A4594B00249A2D /* XCBuildMessageTextBookmark */;
+			283D463D13A4594B00249A2D /* PBXTextBookmark */ = 283D463D13A4594B00249A2D /* PBXTextBookmark */;
+		};
+		sourceControlManager = 283D459713A457BA00249A2D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}
